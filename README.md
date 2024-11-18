@@ -22,8 +22,8 @@ Ez a projekt egy egyszerű Snake játék, amelyben Gyurcsány Ferenc feje a kíg
 
 1. Klónozd a repót:
    ```bash
-   git clone https://github.com/cs0ng0r/gyurcsany-snake-game.git
-   cd gyurcsany-snake-game
+   git clone https://github.com/cs0ng0r/dk_snakegit
+   cd dk_snake
    ```
 
 2. Telepítsd a szükséges könyvtárat:
@@ -62,12 +62,6 @@ A cél minél több DK logót összegyűjteni anélkül, hogy a kígyó ütközn
 - **`head.png`**: A kígyó fejének grafikája.
 - **`dk.png`**: Az étel grafikája.
 - **`gradient.jpeg`**: A játék háttérképe.
-
----
-
-## Játék Képernyőkép
-
-> (Helyezz ide egy képernyőképet a játékról, amely a játékot akció közben mutatja.)
 
 ---
 
